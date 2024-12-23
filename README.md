@@ -19,6 +19,6 @@ Professionnelle en reconversion vers le développement web, forte de mon expéri
 ## 📈 Mes projets GitHub
 Pour l'instant mes projets sont essentiellement des exercices individuels ou des projets réalisés en groupe pendant la formation
 - Jeu type Motus - durée de l'exercice : 4 jours en parallèle des cours
- ![Motus](https://github.com/SahFlo/motus_exercice_individuel_dec_2024)
+[Motus](https://github.com/SahFlo/motus_exercice_individuel_dec_2024)
 - Kata Mastermind - durée de l'exercice : 1/2 journée
-![Mastermind](https://github.com/SahFlo/mastermind)
+[Mastermind](https://github.com/SahFlo/mastermind)
