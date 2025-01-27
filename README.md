@@ -4,8 +4,8 @@ Professionnelle en reconversion vers le développement d'application ou le test 
 Je peux m'appuyer sur un assé professionnel riche et varié que vous retrouvez sur mon profil [LinkedIn](linkedin.com/in/florencesahal).
 
 ## 🚀 À propos de moi
-- 🔭 J'ai démarré ma formation le 30 septembre 2024
-- 🌱 J'ambitionne de rejoindre une entreprise du secteur numérique sur des fonctions techniques
+- 🔭 J'ai démarré ma formation intensive de 9 mois le 30 septembre 2024. Au programme : langages de développement, serveurs et déploiement, tests, bases de données
+- 🌱 J'ambitionne de rejoindre une entreprise du numérique sur des fonctions techniques
 - 👯 Je recherche soit une alternance en contrat de professionnalisation, soit une POEI à Nantes ou Paris à partir de juin-septembre 2025
 - 💬 J'aime aussi discuter de gestion de projet, agilité, stratégie produit et UX
 - 📫 Comment me joindre: sahal.florence@gmail.com | 06 62 80 59 89
